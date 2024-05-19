@@ -53,6 +53,16 @@
 .m-0 {
   margin: 0;
 }
+footer, .boton-vaciar, .boton-agregar{
+  background-color: #3c0512 !important;
+}
+.boton-vaciar, .boton-agregar{
+  text-decoration: none !important;
+  color:white !important;
+}
+.pintalabios-h2, .texto-precio{
+  color:rgb(82, 3, 36) !important;
+}
 /*!
  * Bootstrap  v5.2.3 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
